@@ -1,5 +1,5 @@
 # YERRRRRRRRRRRRRRR
-    <p>I like turtles!</p>
+    
 ## GIT COMMANDS
 
 1. git init
